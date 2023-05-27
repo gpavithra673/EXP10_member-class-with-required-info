@@ -1,0 +1,1 @@
+# EXP10_member-class-with-required-info
