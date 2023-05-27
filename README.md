@@ -106,7 +106,7 @@ public class Details
     }
 }
 ```
-OUTPUT:
+## OUTPUT:
 ![image](https://github.com/gpavithra673/EXP10_member-class-with-required-info/assets/93427264/9efb743e-c63e-43aa-a1a0-78b5ffbedf11)
-RESULT:
-Thus, the output is verified.
+## RESULT:
+### Thus, the output is verified.
